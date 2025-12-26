@@ -33,4 +33,4 @@ A real-time search filter for user profiles that dynamically displays matching r
 
 This implementation demonstrates fundamental front-end development skills including performance optimization, user experience considerations, and clean JavaScript practices.
 
-# Learned from @SheriyansCodingSchool
+# Learned from @SheryiansCodingSchool
